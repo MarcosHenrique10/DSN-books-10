@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!-- SPOKEN TITLE -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="14536ms" clipEnd="19449ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="19449ms" clipEnd="20205ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="20205ms" clipEnd="20395ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Melinda -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="20395ms" clipEnd="20885ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- La -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="20885ms" clipEnd="21055ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Rose -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="21055ms" clipEnd="22015ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="22015ms" clipEnd="22655ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- by -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="22655ms" clipEnd="22935ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Alan -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="22935ms" clipEnd="23265ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Batson -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="23265ms" clipEnd="23775ms" src="../audio/9781423195405.m4a"/>
+    </par>
+    <par id="id9g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="23775ms" clipEnd="24790ms" src="../audio/9781423195405.m4a"/>
+    </par>
+  </body>
+</smil>

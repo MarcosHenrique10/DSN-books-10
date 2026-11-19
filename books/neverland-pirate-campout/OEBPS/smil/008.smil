@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id94g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="57263ms" clipEnd="58348ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id94">
+      <!-- The -->
+      <text src="../008.xhtml#w94"/>
+      <audio clipBegin="58348ms" clipEnd="58448ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id95">
+      <!-- crew -->
+      <text src="../008.xhtml#w95"/>
+      <audio clipBegin="58448ms" clipEnd="58908ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id96">
+      <!-- sets -->
+      <text src="../008.xhtml#w96"/>
+      <audio clipBegin="58908ms" clipEnd="59308ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id97">
+      <!-- sail -->
+      <text src="../008.xhtml#w97"/>
+      <audio clipBegin="59308ms" clipEnd="59818ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id98">
+      <!-- for -->
+      <text src="../008.xhtml#w98"/>
+      <audio clipBegin="59818ms" clipEnd="60028ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id99">
+      <!-- Shipwreck -->
+      <text src="../008.xhtml#w99"/>
+      <audio clipBegin="60028ms" clipEnd="60858ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id100">
+      <!-- Beach -->
+      <text src="../008.xhtml#w100"/>
+      <audio clipBegin="60858ms" clipEnd="62178ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id101">
+      <!-- We're -->
+      <text src="../008.xhtml#w101"/>
+      <audio clipBegin="62178ms" clipEnd="62408ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id102">
+      <!-- off -->
+      <text src="../008.xhtml#w102"/>
+      <audio clipBegin="62408ms" clipEnd="62818ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id103">
+      <!-- mateys -->
+      <text src="../008.xhtml#w103"/>
+      <audio clipBegin="62818ms" clipEnd="63728ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id104">
+      <!-- calls -->
+      <text src="../008.xhtml#w104"/>
+      <audio clipBegin="63728ms" clipEnd="64098ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id105">
+      <!-- Jake -->
+      <text src="../008.xhtml#w105"/>
+      <audio clipBegin="64098ms" clipEnd="64498ms" src="../audio/9781423190103.m4a"/>
+    </par>
+    <par id="id105g">
+      <!--  -->
+      <text src="../008.xhtml#empty"/>
+      <audio clipBegin="64498ms" clipEnd="65123ms" src="../audio/9781423190103.m4a"/>
+    </par>
+  </body>
+</smil>

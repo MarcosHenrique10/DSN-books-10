@@ -1,0 +1,151 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"century-os-mt-regular";
+	src: url(../fonts/CenturyOSMT.otf);
+}
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+@font-face {
+	font-family:"futura-t1-light";
+	src: url(../fonts/FuturaLight.otf);
+}
+@font-face {
+	font-family:"caslonantique-medium";
+	src: url(../fonts/CasloAnt.otf);
+}
+@font-face {
+	font-family:"janson-text-75-bold";
+	src: url(../fonts/JansonText75Bold.otf);
+}
+.font-1 {
+	font-family:"futura-t1-light";
+	font-size:10px;
+	line-height:14px;
+}
+.font-2 {
+	font-family:"arial-regular";
+	font-size:11px;
+	line-height:14px;
+}
+.font-3 {
+	font-family:"caslonantique-medium";
+	font-size:16px;
+	line-height:26px;
+	font-variant: small-caps;
+}
+.font-4 {
+	font-family:"caslonantique-medium";
+	font-size:20px;
+	line-height:38px;
+	font-variant: small-caps;
+}
+.font-5 {
+	font-family:"caslonantique-medium";
+	font-size:19px;
+	line-height:32px;
+	font-variant: small-caps;
+}
+.font-6 {
+	font-family:"caslonantique-medium";
+	font-size:27px;
+	line-height:38px;
+}
+.font-7 {
+	font-family:"caslonantique-medium";
+	font-size:23px;
+	line-height:30px;
+	font-variant: small-caps;
+}
+.font-8 {
+	font-family:"caslonantique-medium";
+	font-size:40px;
+	line-height:27px;
+}
+.font-9 {
+	font-family:"janson-text-75-bold";
+	font-size:18px;
+	line-height:27px;
+}
+.font-9-line-height-35 {
+	line-height: 35px !important;
+}
+.font-9-line-height-38 {
+	line-height: 38px !important;
+}
+.font-9-line-height-45 {
+	line-height: 45px !important;
+}
+
+.font-10 {
+	font-family:"century-os-mt-regular";
+	font-size:20px;
+	line-height:28px;
+}
+.font-11 {
+	font-family:"caslonantique-medium";
+	font-size:28px;
+	line-height:38px;
+	font-variant: small-caps;
+}
+.font-11-line-height-27,
+.font-11-line-height-27 span {
+	line-height: 27px !important;
+}
+.font-12 {
+	font-family:"caslonantique-medium";
+	font-size:33px;
+	line-height:36px;
+	font-variant: small-caps;
+}
+.font-13 {
+	font-family:"caslonantique-medium";
+	font-size:44px;
+	line-height:51px;
+	font-variant:small-caps;
+}
+.font-14 {
+	font-family:"caslonantique-medium";
+	font-size:23px;
+	line-height:32px;
+}
+.font-15 {
+	font-family:"caslonantique-medium";
+	font-size:44px;
+	line-height:35px;
+}
+.font-16 {
+	font-family:"caslonantique-medium";
+	font-size:20px;
+	line-height:29px;
+}
+.font-17 {
+	font-family:"caslonantique-medium";
+	font-size:42px;
+	line-height:35px;
+	font-variant: small-caps;
+}
+.font-style-italic { font-style: italic; }
+.padding-bottom-10 { padding-bottom: 10px; }
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.alternate-color-1 span.media-overlay-active { color: #f00 !important; }
+.alternate-color-2 span.media-overlay-active { color: #7d26cd !important; }
+.media-overlay-active  { color:#f00 !important; } /* For audio books */
+tspan.media-overlay-active  { fill:#f00 !important; } 
+.page, .page img { width:738px; height:738px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:738px; overflow:hidden; position:relative; background-size:100% 100%; }
+.pageKF8-single { width:738px; height:738px; position:relative; background-size:100% 100%; left:25%; }
+/*span { color:#f6f !important; }*/

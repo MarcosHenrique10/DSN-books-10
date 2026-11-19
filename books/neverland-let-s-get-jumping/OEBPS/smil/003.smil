@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="100ms" clipEnd="9995ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Jake -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="9995ms" clipEnd="10515ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- and -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="10515ms" clipEnd="10715ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- the -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="10715ms" clipEnd="10825ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Neverland -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="10825ms" clipEnd="11805ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Pirates -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="11805ms" clipEnd="12875ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Let's -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="12875ms" clipEnd="13345ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Get -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="13345ms" clipEnd="13755ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Jumping -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="13755ms" clipEnd="14795ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- WRITTEN -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="14795ms" clipEnd="15255ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- BY -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="15255ms" clipEnd="15435ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- MELINDA -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="15435ms" clipEnd="15945ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- LA -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="15945ms" clipEnd="16165ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- ROSE -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="16165ms" clipEnd="17165ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- ILLUSRATED -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="17165ms" clipEnd="17935ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- BY -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="17935ms" clipEnd="18275ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- ALAN -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="18275ms" clipEnd="18615ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- BATSON -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="18615ms" clipEnd="19125ms" src="../audio/9781484751480.m4a"/>
+    </par>
+    <par id="id17g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="19125ms" clipEnd="20101ms" src="../audio/9781484751480.m4a"/>
+    </par>
+  </body>
+</smil>
