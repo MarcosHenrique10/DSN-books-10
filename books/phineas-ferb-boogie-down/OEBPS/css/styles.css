@@ -1,0 +1,281 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+@font-face {
+	font-family:"century-os-mt-regular";
+	src: url(../fonts/CenturyOSMT.otf);
+}
+@font-face {
+	font-family:"century-os-mt-italic";
+	src: url(../fonts/CenturyOSMTItalic.otf);
+}
+@font-face {
+	font-family:"century-schoolbook-regular";
+	src: url(../fonts/CenturySchoolbook.otf);
+}
+@font-face {
+	font-family:"century-schoolbook-bold";
+	src: url(../fonts/CenturySchoolbookBold.otf);
+}
+@font-face {
+	font-family:"helvetica-regular";
+	src: url(../fonts/Helvetica.otf);
+}
+@font-face {
+	font-family:"hernandez-bold";
+	src: url(../fonts/HernandezBold.otf);
+}
+@font-face {
+	font-family:"leticea-bumstead-regular";
+	src: url(../fonts/LeticeaBumstead.otf);
+}
+@font-face {
+	font-family:"times-regular";
+	src: url(../fonts/TimesRoman.otf);
+}
+@font-face {
+	font-family:"triplex-bold";
+	src: url(../fonts/TriplexBold.otf);
+}
+@font-face {
+	font-family:"triplex-extrabold";
+	src: url(../fonts/TriplexExtraBold.otf);
+}
+@font-face {
+	font-family:"triplex-light";
+	src: url(../fonts/TriplexLig.otf);
+}
+@font-face {
+	font-family:"vag-rounded-bold";
+	src: url(../fonts/VAGRoundedBold.otf);
+}
+
+.font-1 {
+	font-family:"leticea-bumstead-regular";
+	font-size:14px;
+	line-height:20px;
+}
+.font-2 {
+	font-family:"triplex-extrabold";
+	font-size:21px;
+	line-height:14px;
+}
+.font-3 {
+	font-family:"century-schoolbook-bold";
+	font-size:16px;
+	line-height:23px;
+}
+.font-4 {
+	font-family:"century-os-mt-regular";
+	font-size:15px;
+	line-height:19px;
+}
+.font-5 {
+	font-family:"century-os-mt-regular";
+	font-size:15px;
+	line-height:22px;
+}
+.font-6 {
+	font-family:"triplex-extrabold";
+	font-size:19px;
+	line-height:32px;
+}
+.font-7 {
+	font-family:"triplex-extrabold";
+	font-size:15px;
+	line-height:32px;
+}
+.font-8 {
+	font-family:"century-schoolbook-bold";
+	font-size:17px;
+	line-height:20px;
+}
+.font-9 {
+	font-family:"century-os-mt-regular";
+	font-size:15px;
+	line-height:13px;
+}
+.font-10 {
+	font-family:"century-os-mt-regular";
+	font-size:17px;
+	line-height:22px;
+}
+.font-11 {
+	font-family:"century-schoolbook-regular";
+	font-size:15px;
+	line-height:20px;
+}
+.font-12 {
+	font-family:"triplex-bold";
+	font-size:23px;
+	line-height:27px;
+}
+.font-13 {
+	font-family:"century-os-mt-regular";
+	font-size:15px;
+	line-height:21px;
+}
+.font-14 {
+	font-family:"century-os-mt-regular";
+	font-size:14px;
+	line-height:12px;
+}
+.font-15 {
+	font-family:"century-os-mt-roman";
+	font-size:11px;
+	line-height:12px;
+}
+.font-16 {
+	font-family:"arial-regular";
+	font-size:15px;
+	line-height:12px;
+}
+.font-17 {
+	font-family:"century-os-mt-roman";
+	font-size:14px;
+	line-height:17px;
+	display: block;
+}
+.font-18 {
+	font-family:"century-os-mt-roman";
+	font-size:17px;
+	line-height:8px;
+	display: block;
+}
+.font-19 {
+	font-family:"century-os-mt-roman";
+	font-size:15px;
+	line-height:25px;
+}
+.font-20 {
+	font-family:"century-os-mt-regular";
+	font-size:29px;
+	line-height:43px;
+}
+.font-20i {
+	font-family:"century-os-mt-italic";
+}
+.font-21 {
+	font-family:"triplex-bold";
+	font-size:36px;
+	line-height:39px;
+}
+.font-22 {
+	font-family:"triplex-light";
+	font-size:20px;
+	line-height:23px;
+}
+.font-23 {
+	font-family:"triplex-bold";
+	font-size:30px;
+}
+.font-24 {
+	font-family:"triplex-extrabold";
+	font-size:20px;
+	line-height:17px;
+}
+.font-25 {
+	font-family:"vag-rounded-bold";
+	font-size:20px;
+	line-height:21px;
+}
+.font-26 {
+	font-family:"triplex-extrabold";
+	font-size:23px;
+	line-height:21px;
+	margin: 0 0 0 17px;
+}
+.font-27 {
+	font-family:"times-regular";
+	font-size:16px;
+	line-height:17px;
+}
+.font-28 {
+	font-family:"triplex-light";
+	font-size:19px;
+	line-height:17px;
+}
+.font-29 {
+	font-family:"triplex-light";
+	font-size:18px;
+	line-height:17px;
+	margin: 0 0 0 17px;
+}
+.font-30 {
+	font-family:"triplex-light";
+	font-size:16px;
+	line-height:16px;
+}
+.font-31 {
+	font-family:"triplex-light";
+	font-size:17px;
+	line-height:19px;
+}
+.font-32 {
+	font-family:"times-regular";
+	font-size:16px;
+	line-height:21px;
+}
+.font-33 {
+	font-family:"triplex-light";
+	font-size:9px;
+	line-height: 11px;
+	display: block;
+}
+.font-34 {
+	font-family:"triplex-light";
+	font-size:8px;
+	line-height:11px;
+}
+.font-35 {
+	font-family:"vag-rounded-bold";
+	font-size:24px;
+	line-height:29px;
+}
+.font-36 {
+	font-family:"helvetica-regular";
+	font-size:19px;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0 0 17px 0;}
+.text-frame.copy  p {margin: 0 0 2px 0;}
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.indent {text-indent: 28px;}
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:657px; height:985px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1314px; height:985px; overflow:hidden; position:relative; background-size:contain; }
+.pageKF8-single { width:657px; height:985px; position:relative; background-size:contain; left:25%; }
+
+/*TESTING EPUB*/
+/* 
+.rbone,
+.page {
+	border: 1px solid red;
+}
+.gbone,
+.text-frame {
+	border: 1px solid #bada55;
+}
+.bbone {
+	border: 1px solid blue;
+}
+.pbone {
+	border: 1px solid fuchsia;
+}
+
+body {
+	color: fuchsia;
+}
+ */

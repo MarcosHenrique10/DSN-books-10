@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id242g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="105494ms" clipEnd="105744ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id242">
+      <!-- Today -->
+      <text src="../009.xhtml#w242"/>
+      <audio clipBegin="105744ms" clipEnd="106614ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id243">
+      <!-- I -->
+      <text src="../009.xhtml#w243"/>
+      <audio clipBegin="106614ms" clipEnd="106784ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id244">
+      <!-- have -->
+      <text src="../009.xhtml#w244"/>
+      <audio clipBegin="106784ms" clipEnd="107004ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id245">
+      <!-- a -->
+      <text src="../009.xhtml#w245"/>
+      <audio clipBegin="107004ms" clipEnd="107144ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id246">
+      <!-- very -->
+      <text src="../009.xhtml#w246"/>
+      <audio clipBegin="107144ms" clipEnd="107654ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id247">
+      <!-- special -->
+      <text src="../009.xhtml#w247"/>
+      <audio clipBegin="107654ms" clipEnd="108334ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id248">
+      <!-- scheme -->
+      <text src="../009.xhtml#w248"/>
+      <audio clipBegin="108334ms" clipEnd="109214ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id249">
+      <!-- Dr -->
+      <text src="../009.xhtml#w249"/>
+      <audio clipBegin="109214ms" clipEnd="109654ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id250">
+      <!-- Doofenshmirtz -->
+      <text src="../009.xhtml#w250"/>
+      <audio clipBegin="109654ms" clipEnd="110464ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id251">
+      <!-- told -->
+      <text src="../009.xhtml#w251"/>
+      <audio clipBegin="110464ms" clipEnd="110784ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id252">
+      <!-- Perry -->
+      <text src="../009.xhtml#w252"/>
+      <audio clipBegin="110784ms" clipEnd="111444ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id253">
+      <!-- as -->
+      <text src="../009.xhtml#w253"/>
+      <audio clipBegin="111444ms" clipEnd="111554ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id254">
+      <!-- he -->
+      <text src="../009.xhtml#w254"/>
+      <audio clipBegin="111554ms" clipEnd="111624ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id255">
+      <!-- began -->
+      <text src="../009.xhtml#w255"/>
+      <audio clipBegin="111624ms" clipEnd="112214ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id256">
+      <!-- to -->
+      <text src="../009.xhtml#w256"/>
+      <audio clipBegin="112214ms" clipEnd="112324ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id257">
+      <!-- put -->
+      <text src="../009.xhtml#w257"/>
+      <audio clipBegin="112324ms" clipEnd="112524ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id258">
+      <!-- on -->
+      <text src="../009.xhtml#w258"/>
+      <audio clipBegin="112524ms" clipEnd="112714ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id259">
+      <!-- a -->
+      <text src="../009.xhtml#w259"/>
+      <audio clipBegin="112714ms" clipEnd="112804ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id260">
+      <!-- bunny -->
+      <text src="../009.xhtml#w260"/>
+      <audio clipBegin="112804ms" clipEnd="113164ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id261">
+      <!-- costume -->
+      <text src="../009.xhtml#w261"/>
+      <audio clipBegin="113164ms" clipEnd="114414ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id262">
+      <!-- I've -->
+      <text src="../009.xhtml#w262"/>
+      <audio clipBegin="114414ms" clipEnd="114704ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id263">
+      <!-- noticed -->
+      <text src="../009.xhtml#w263"/>
+      <audio clipBegin="114704ms" clipEnd="115424ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id264">
+      <!-- that -->
+      <text src="../009.xhtml#w264"/>
+      <audio clipBegin="115424ms" clipEnd="115704ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id265">
+      <!-- everyone -->
+      <text src="../009.xhtml#w265"/>
+      <audio clipBegin="115704ms" clipEnd="116284ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id266">
+      <!-- seems -->
+      <text src="../009.xhtml#w266"/>
+      <audio clipBegin="116284ms" clipEnd="116684ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id267">
+      <!-- to -->
+      <text src="../009.xhtml#w267"/>
+      <audio clipBegin="116684ms" clipEnd="117004ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id268">
+      <!-- really -->
+      <text src="../009.xhtml#w268"/>
+      <audio clipBegin="117004ms" clipEnd="117394ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id269">
+      <!-- love -->
+      <text src="../009.xhtml#w269"/>
+      <audio clipBegin="117394ms" clipEnd="117914ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id270">
+      <!-- the -->
+      <text src="../009.xhtml#w270"/>
+      <audio clipBegin="117914ms" clipEnd="118154ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id271">
+      <!-- Easter -->
+      <text src="../009.xhtml#w271"/>
+      <audio clipBegin="118154ms" clipEnd="118524ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id272">
+      <!-- Bunny -->
+      <text src="../009.xhtml#w272"/>
+      <audio clipBegin="118524ms" clipEnd="119224ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id273">
+      <!-- You -->
+      <text src="../009.xhtml#w273"/>
+      <audio clipBegin="119224ms" clipEnd="119404ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id274">
+      <!-- don't -->
+      <text src="../009.xhtml#w274"/>
+      <audio clipBegin="119404ms" clipEnd="119624ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id275">
+      <!-- see -->
+      <text src="../009.xhtml#w275"/>
+      <audio clipBegin="119624ms" clipEnd="119894ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id276">
+      <!-- that -->
+      <text src="../009.xhtml#w276"/>
+      <audio clipBegin="119894ms" clipEnd="120134ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id277">
+      <!-- rabbit -->
+      <text src="../009.xhtml#w277"/>
+      <audio clipBegin="120134ms" clipEnd="120514ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id278">
+      <!-- for -->
+      <text src="../009.xhtml#w278"/>
+      <audio clipBegin="120514ms" clipEnd="120714ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id279">
+      <!-- 364 -->
+      <text src="../009.xhtml#w279"/>
+      <audio clipBegin="120714ms" clipEnd="122464ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id280">
+      <!-- days -->
+      <text src="../009.xhtml#w280"/>
+      <audio clipBegin="122464ms" clipEnd="122864ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id281">
+      <!-- of -->
+      <text src="../009.xhtml#w281"/>
+      <audio clipBegin="122864ms" clipEnd="122954ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id282">
+      <!-- the -->
+      <text src="../009.xhtml#w282"/>
+      <audio clipBegin="122954ms" clipEnd="123074ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id283">
+      <!-- year -->
+      <text src="../009.xhtml#w283"/>
+      <audio clipBegin="123074ms" clipEnd="123734ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id284">
+      <!-- but -->
+      <text src="../009.xhtml#w284"/>
+      <audio clipBegin="123734ms" clipEnd="123844ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id285">
+      <!-- on -->
+      <text src="../009.xhtml#w285"/>
+      <audio clipBegin="123844ms" clipEnd="124094ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id286">
+      <!-- this -->
+      <text src="../009.xhtml#w286"/>
+      <audio clipBegin="124094ms" clipEnd="124354ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id287">
+      <!-- day -->
+      <text src="../009.xhtml#w287"/>
+      <audio clipBegin="124354ms" clipEnd="124984ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id288">
+      <!-- you -->
+      <text src="../009.xhtml#w288"/>
+      <audio clipBegin="124984ms" clipEnd="125354ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id289">
+      <!-- welcome -->
+      <text src="../009.xhtml#w289"/>
+      <audio clipBegin="125354ms" clipEnd="125914ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id290">
+      <!-- him -->
+      <text src="../009.xhtml#w290"/>
+      <audio clipBegin="125914ms" clipEnd="126134ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id291">
+      <!-- with -->
+      <text src="../009.xhtml#w291"/>
+      <audio clipBegin="126134ms" clipEnd="126544ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id292">
+      <!-- open -->
+      <text src="../009.xhtml#w292"/>
+      <audio clipBegin="126544ms" clipEnd="126834ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id293">
+      <!-- arms -->
+      <text src="../009.xhtml#w293"/>
+      <audio clipBegin="126834ms" clipEnd="127784ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id294">
+      <!-- So -->
+      <text src="../009.xhtml#w294"/>
+      <audio clipBegin="127784ms" clipEnd="128104ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id295">
+      <!-- now -->
+      <text src="../009.xhtml#w295"/>
+      <audio clipBegin="128104ms" clipEnd="128794ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id296">
+      <!-- I -->
+      <text src="../009.xhtml#w296"/>
+      <audio clipBegin="128794ms" clipEnd="128994ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id297">
+      <!-- am -->
+      <text src="../009.xhtml#w297"/>
+      <audio clipBegin="128994ms" clipEnd="129214ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id298">
+      <!-- going -->
+      <text src="../009.xhtml#w298"/>
+      <audio clipBegin="129214ms" clipEnd="129514ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id299">
+      <!-- to -->
+      <text src="../009.xhtml#w299"/>
+      <audio clipBegin="129514ms" clipEnd="129644ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id300">
+      <!-- dress -->
+      <text src="../009.xhtml#w300"/>
+      <audio clipBegin="129644ms" clipEnd="129974ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id301">
+      <!-- like -->
+      <text src="../009.xhtml#w301"/>
+      <audio clipBegin="129974ms" clipEnd="130154ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id302">
+      <!-- the -->
+      <text src="../009.xhtml#w302"/>
+      <audio clipBegin="130154ms" clipEnd="130374ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id303">
+      <!-- Easter -->
+      <text src="../009.xhtml#w303"/>
+      <audio clipBegin="130374ms" clipEnd="130694ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id304">
+      <!-- Bunny -->
+      <text src="../009.xhtml#w304"/>
+      <audio clipBegin="130694ms" clipEnd="131014ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id305">
+      <!-- to -->
+      <text src="../009.xhtml#w305"/>
+      <audio clipBegin="131014ms" clipEnd="131114ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id306">
+      <!-- gain -->
+      <text src="../009.xhtml#w306"/>
+      <audio clipBegin="131114ms" clipEnd="131514ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id307">
+      <!-- access -->
+      <text src="../009.xhtml#w307"/>
+      <audio clipBegin="131514ms" clipEnd="131964ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id308">
+      <!-- to -->
+      <text src="../009.xhtml#w308"/>
+      <audio clipBegin="131964ms" clipEnd="132084ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id309">
+      <!-- City -->
+      <text src="../009.xhtml#w309"/>
+      <audio clipBegin="132084ms" clipEnd="132384ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id310">
+      <!-- Hall -->
+      <text src="../009.xhtml#w310"/>
+      <audio clipBegin="132384ms" clipEnd="133034ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id311">
+      <!-- and -->
+      <text src="../009.xhtml#w311"/>
+      <audio clipBegin="133034ms" clipEnd="133224ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id312">
+      <!-- then -->
+      <text src="../009.xhtml#w312"/>
+      <audio clipBegin="133224ms" clipEnd="133464ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id313">
+      <!-- take -->
+      <text src="../009.xhtml#w313"/>
+      <audio clipBegin="133464ms" clipEnd="133954ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id314">
+      <!-- over -->
+      <text src="../009.xhtml#w314"/>
+      <audio clipBegin="133954ms" clipEnd="134244ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id315">
+      <!-- the -->
+      <text src="../009.xhtml#w315"/>
+      <audio clipBegin="134244ms" clipEnd="134394ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id316">
+      <!-- Tri -->
+      <text src="../009.xhtml#w316"/>
+      <audio clipBegin="134394ms" clipEnd="134884ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id317">
+      <!-- State -->
+      <text src="../009.xhtml#w317"/>
+      <audio clipBegin="134884ms" clipEnd="135404ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id318">
+      <!-- Area -->
+      <text src="../009.xhtml#w318"/>
+      <audio clipBegin="135404ms" clipEnd="135924ms" src="../audio/9781423195764.m4a"/>
+    </par>
+    <par id="id318g">
+      <!--  -->
+      <text src="../009.xhtml#empty"/>
+      <audio clipBegin="135924ms" clipEnd="136589ms" src="../audio/9781423195764.m4a"/>
+    </par>
+  </body>
+</smil>
