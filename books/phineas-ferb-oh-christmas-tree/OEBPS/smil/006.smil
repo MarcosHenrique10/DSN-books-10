@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id83g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="50104ms" clipEnd="51285ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id83">
+      <!-- Phineas -->
+      <text src="../006.xhtml#w83"/>
+      <audio clipBegin="51285ms" clipEnd="51755ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id84">
+      <!-- and -->
+      <text src="../006.xhtml#w84"/>
+      <audio clipBegin="51755ms" clipEnd="51935ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id85">
+      <!-- Ferb's -->
+      <text src="../006.xhtml#w85"/>
+      <audio clipBegin="51935ms" clipEnd="52395ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id86">
+      <!-- older -->
+      <text src="../006.xhtml#w86"/>
+      <audio clipBegin="52395ms" clipEnd="52795ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id87">
+      <!-- sister -->
+      <text src="../006.xhtml#w87"/>
+      <audio clipBegin="52795ms" clipEnd="53245ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id88">
+      <!-- Candace -->
+      <text src="../006.xhtml#w88"/>
+      <audio clipBegin="53245ms" clipEnd="53955ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id89">
+      <!-- overheard -->
+      <text src="../006.xhtml#w89"/>
+      <audio clipBegin="53955ms" clipEnd="54655ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id90">
+      <!-- her -->
+      <text src="../006.xhtml#w90"/>
+      <audio clipBegin="54655ms" clipEnd="54815ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id91">
+      <!-- brother -->
+      <text src="../006.xhtml#w91"/>
+      <audio clipBegin="54815ms" clipEnd="55945ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id92">
+      <!-- I -->
+      <text src="../006.xhtml#w92"/>
+      <audio clipBegin="55945ms" clipEnd="56005ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id93">
+      <!-- have -->
+      <text src="../006.xhtml#w93"/>
+      <audio clipBegin="56005ms" clipEnd="56335ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id94">
+      <!-- to -->
+      <text src="../006.xhtml#w94"/>
+      <audio clipBegin="56335ms" clipEnd="56455ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id95">
+      <!-- find -->
+      <text src="../006.xhtml#w95"/>
+      <audio clipBegin="56455ms" clipEnd="56905ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id96">
+      <!-- out -->
+      <text src="../006.xhtml#w96"/>
+      <audio clipBegin="56905ms" clipEnd="57115ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id97">
+      <!-- what -->
+      <text src="../006.xhtml#w97"/>
+      <audio clipBegin="57115ms" clipEnd="57275ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id98">
+      <!-- Phineas -->
+      <text src="../006.xhtml#w98"/>
+      <audio clipBegin="57275ms" clipEnd="57795ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id99">
+      <!-- is -->
+      <text src="../006.xhtml#w99"/>
+      <audio clipBegin="57795ms" clipEnd="57955ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id100">
+      <!-- up -->
+      <text src="../006.xhtml#w100"/>
+      <audio clipBegin="57955ms" clipEnd="58165ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id101">
+      <!-- to -->
+      <text src="../006.xhtml#w101"/>
+      <audio clipBegin="58165ms" clipEnd="58555ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id102">
+      <!-- she -->
+      <text src="../006.xhtml#w102"/>
+      <audio clipBegin="58555ms" clipEnd="58835ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id103">
+      <!-- thought -->
+      <text src="../006.xhtml#w103"/>
+      <audio clipBegin="58835ms" clipEnd="59215ms" src="../audio/9781484751022.m4a"/>
+    </par>
+    <par id="id103g">
+      <!--  -->
+      <text src="../006.xhtml#empty"/>
+      <audio clipBegin="59215ms" clipEnd="59670ms" src="../audio/9781484751022.m4a"/>
+    </par>
+  </body>
+</smil>

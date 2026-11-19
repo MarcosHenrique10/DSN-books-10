@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1199g">
+      <!--  -->
+      <text src="../037.xhtml#empty"/>
+      <audio clipBegin="551095ms" clipEnd="551415ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1199">
+      <!-- The -->
+      <text src="../037.xhtml#w1199"/>
+      <audio clipBegin="551415ms" clipEnd="551675ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1200">
+      <!-- animals -->
+      <text src="../037.xhtml#w1200"/>
+      <audio clipBegin="551675ms" clipEnd="552205ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1201">
+      <!-- didn't -->
+      <text src="../037.xhtml#w1201"/>
+      <audio clipBegin="552205ms" clipEnd="552485ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1202">
+      <!-- like -->
+      <text src="../037.xhtml#w1202"/>
+      <audio clipBegin="552485ms" clipEnd="552965ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1203">
+      <!-- what -->
+      <text src="../037.xhtml#w1203"/>
+      <audio clipBegin="552965ms" clipEnd="553085ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1204">
+      <!-- Candace -->
+      <text src="../037.xhtml#w1204"/>
+      <audio clipBegin="553085ms" clipEnd="553595ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1205">
+      <!-- said -->
+      <text src="../037.xhtml#w1205"/>
+      <audio clipBegin="553595ms" clipEnd="554495ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1206">
+      <!-- A -->
+      <text src="../037.xhtml#w1206"/>
+      <audio clipBegin="554495ms" clipEnd="554545ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1207">
+      <!-- big -->
+      <text src="../037.xhtml#w1207"/>
+      <audio clipBegin="554545ms" clipEnd="554795ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1208">
+      <!-- dog -->
+      <text src="../037.xhtml#w1208"/>
+      <audio clipBegin="554795ms" clipEnd="555225ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1209">
+      <!-- barked -->
+      <text src="../037.xhtml#w1209"/>
+      <audio clipBegin="555225ms" clipEnd="555645ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1210">
+      <!-- into -->
+      <text src="../037.xhtml#w1210"/>
+      <audio clipBegin="555645ms" clipEnd="555815ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1211">
+      <!-- the -->
+      <text src="../037.xhtml#w1211"/>
+      <audio clipBegin="555815ms" clipEnd="555885ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1212">
+      <!-- microphone -->
+      <text src="../037.xhtml#w1212"/>
+      <audio clipBegin="555885ms" clipEnd="557095ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1213">
+      <!-- Get -->
+      <text src="../037.xhtml#w1213"/>
+      <audio clipBegin="557095ms" clipEnd="557305ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1214">
+      <!-- her -->
+      <text src="../037.xhtml#w1214"/>
+      <audio clipBegin="557305ms" clipEnd="558135ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1215">
+      <!-- the -->
+      <text src="../037.xhtml#w1215"/>
+      <audio clipBegin="558135ms" clipEnd="558195ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1216">
+      <!-- machine -->
+      <text src="../037.xhtml#w1216"/>
+      <audio clipBegin="558195ms" clipEnd="558675ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1217">
+      <!-- translated -->
+      <text src="../037.xhtml#w1217"/>
+      <audio clipBegin="558675ms" clipEnd="559955ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1218">
+      <!-- The -->
+      <text src="../037.xhtml#w1218"/>
+      <audio clipBegin="559955ms" clipEnd="560125ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1219">
+      <!-- animals -->
+      <text src="../037.xhtml#w1219"/>
+      <audio clipBegin="560125ms" clipEnd="560865ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1220">
+      <!-- chased -->
+      <text src="../037.xhtml#w1220"/>
+      <audio clipBegin="560865ms" clipEnd="561455ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1221">
+      <!-- Candace -->
+      <text src="../037.xhtml#w1221"/>
+      <audio clipBegin="561455ms" clipEnd="562145ms" src="../audio/9781484751053.m4a"/>
+    </par>
+    <par id="id1221g">
+      <!--  -->
+      <text src="../037.xhtml#empty"/>
+      <audio clipBegin="562145ms" clipEnd="563225ms" src="../audio/9781484751053.m4a"/>
+    </par>
+  </body>
+</smil>

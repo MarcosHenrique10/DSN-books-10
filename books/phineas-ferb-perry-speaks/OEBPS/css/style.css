@@ -1,0 +1,587 @@
+img{z-index:-1;}body {
+	width: 707px;
+	height: 1060px;
+	margin: 0;
+	border: none;
+}
+body > div {
+	position: relative;
+	overflow: hidden;
+	width: 707px;
+	height: 1060px;
+}
+.coverpage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	margin: 0px;
+}
+.coverimage {
+	vertical-align: middle;
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	margin: 0px;
+}
+
+@font-face{
+  font-family: "Arial";
+  src: url(../fonts/Arial.ttf);
+}
+
+
+@font-face{
+  font-family: "vagrounb";
+  src: url(../fonts/vagrounb.ttf);
+}
+
+@font-face{
+  font-family: "CenturyOsMT";
+  src: url(../fonts/CenturyOsMT.ttf);
+}
+
+@font-face{
+  font-family: "CenturyOSMTStd-Italic";
+  src: url(../fonts/CenturyOSMTStd-Italic.ttf);
+}
+@font-face{
+  font-family: "TriplexBold";
+  src: url(../fonts/TriplexBold.ttf);
+}@font-face{
+  font-family: "TriplexExtraBold";
+  src: url(../fonts/TriplexExtraBold.ttf);
+}
+@font-face{
+  font-family: "TriplexLight";
+  src: url(../fonts/TriplexLight.ttf);
+}p.nonindent{
+	font-family: "CenturyOsMT";
+	font-size: 31px;
+	line-height: 46px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.indent{
+	font-family: "CenturyOsMT";
+	font-size: 31px;
+	line-height: 46px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.image {
+	text-align: center;
+	background-color: white;
+	height: 100%;
+	max-width:100%;
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+}
+em {
+    font-style: oblique;
+}
+a
+{
+text-decoration: none;
+}
+div.page2_item1{
+	position: absolute;
+	top: 710px;
+	left: 115px;
+	right: 0px;
+width: 534px;height: 242px;}
+div.page3_item1{
+	position: absolute;
+	top: 755px;
+	left: 80px;
+	right: 0px;
+width: 546px;height: 61px;}
+div.page3_item2{
+	position: absolute;
+	top: 924px;
+	left: 241px;
+	right: 0px;
+width: 222px;height: 20px;}
+div.page4_item1{
+	position: absolute;
+	top: 108px;
+	left: 105px;
+	right: 0px;
+width: 558px;height: 268px;}
+div.page5_item1{
+	position: absolute;
+	top: 112px;
+	left: 106px;
+	right: 0px;
+width: 556px;height: 271px;}
+div.page6_item1{
+	position: absolute;
+	top: 109px;
+	left: 105px;
+	right: 0px;
+width: 520px;height: 229px;}
+div.page7_item1{
+	position: absolute;
+	top: 404px;
+	left: 104px;
+	right: 0px;
+width: 533px;height: 231px;}
+div.page8_item1{
+	position: absolute;
+	top: 587px;
+	left: 104px;
+	right: 0px;
+width: 513px;height: 364px;}
+div.page9_item1{
+	position: absolute;
+	top: 113px;
+	left: 105px;
+	right: 0px;
+width: 527px;height: 310px;}
+div.page10_item1{
+	position: absolute;
+	top: 110px;
+	left: 104px;
+	right: 0px;
+width: 551px;height: 360px;}
+div.page11_item1{
+	position: absolute;
+	top: 634px;
+	left: 105px;
+	right: 0px;
+width: 553px;height: 315px;}
+div.page12_item1{
+	position: absolute;
+	top: 588px;
+	left: 105px;
+	right: 0px;
+width: 560px;height: 364px;}
+div.page13_item1{
+	position: absolute;
+	top: 111px;
+	left: 105px;
+	right: 0px;
+width: 578px;height: 461px;}
+div.page14_item1{
+	position: absolute;
+	top: 661px;
+	left: 106px;
+	right: 0px;
+width: 542px;height: 238px;}
+div.page15_item1{
+	position: absolute;
+	top: 118px;
+	left: 105px;
+	right: 0px;
+width: 553px;height: 325px;}
+div.page16_item1{
+	position: absolute;
+	top: 636px;
+	left: 105px;
+	right: 0px;
+width: 564px;height: 266px;}
+div.page17_item1{
+	position: absolute;
+	top: 108px;
+	left: 110px;
+	right: 0px;
+width: 524px;height: 323px;}
+div.page18_item1{
+	position: absolute;
+	top: 324px;
+	left: 105px;
+	right: 0px;
+width: 516px;height: 93px;}
+div.page18_item2{
+	position: absolute;
+	top: 661px;
+	left: 105px;
+	right: 0px;
+width: 325px;height: 46px;}
+div.page19_item1{
+	position: absolute;
+	top: 385px;
+	left: 105px;
+	right: 0px;
+width: 562px;height: 185px;}
+div.page20_item1{
+	position: absolute;
+	top: 544px;
+	left: 105px;
+	right: 0px;
+width: 555px;height: 415px;}
+div.page21_item1{
+	position: absolute;
+	top: 112px;
+	left: 105px;
+	right: 0px;
+width: 512px;height: 223px;}
+div.page22_item1{
+	position: absolute;
+	top: 159px;
+	left: 105px;
+	right: 0px;
+width: 521px;height: 229px;}
+div.page23_item1{
+	position: absolute;
+	top: 540px;
+	left: 105px;
+	right: 0px;
+width: 543px;height: 368px;}
+div.page24_item1{
+	position: absolute;
+	top: 636px;
+	left: 106px;
+	right: 0px;
+width: 544px;height: 322px;}
+div.page25_item1{
+	position: absolute;
+	top: 111px;
+	left: 105px;
+	right: 0px;
+width: 547px;height: 363px;}
+div.page26_item1{
+	position: absolute;
+	top: 108px;
+	left: 105px;
+	right: 0px;
+width: 527px;height: 457px;}
+div.page27_item1{
+	position: absolute;
+	top: 634px;
+	left: 106px;
+	right: 0px;
+width: 541px;height: 328px;}
+div.page28_item1{
+	position: absolute;
+	top: 157px;
+	left: 103px;
+	right: 0px;
+width: 542px;height: 185px;}
+div.page29_item1{
+	position: absolute;
+	top: 451px;
+	left: 107px;
+	right: 0px;
+width: 406px;height: 45px;}
+div.page29_item2{
+	position: absolute;
+	top: 911px;
+	left: 107px;
+	right: 0px;
+width: 348px;height: 43px;}
+div.page30_item1{
+	position: absolute;
+	top: 111px;
+	left: 105px;
+	right: 0px;
+width: 561px;height: 221px;}
+div.page31_item1{
+	position: absolute;
+	top: 110px;
+	left: 105px;
+	right: 0px;
+width: 550px;height: 231px;}
+div.page32_item1{
+	position: absolute;
+	top: 632px;
+	left: 105px;
+	right: 0px;
+width: 497px;height: 230px;}
+div.page33_item1{
+	position: absolute;
+	top: 111px;
+	left: 105px;
+	right: 0px;
+width: 533px;height: 315px;}
+div.page34_item1{
+	position: absolute;
+	top: 110px;
+	left: 105px;
+	right: 0px;
+width: 534px;height: 311px;}
+div.page35_item1{
+	position: absolute;
+	top: 110px;
+	left: 105px;
+	right: 0px;
+width: 545px;height: 272px;}
+div.page36_item1{
+	position: absolute;
+	top: 637px;
+	left: 104px;
+	right: 0px;
+width: 540px;height: 312px;}
+div.page37_item1{
+	position: absolute;
+	top: 417px;
+	left: 105px;
+	right: 0px;
+width: 537px;height: 178px;}
+div.page37_item2{
+	position: absolute;
+	top: 911px;
+	left: 105px;
+	right: 0px;
+width: 403px;height: 42px;}
+div.page38_item1{
+	position: absolute;
+	top: 310px;
+	left: 105px;
+	right: 0px;
+width: 551px;height: 89px;}
+div.page38_item2{
+	position: absolute;
+	top: 608px;
+	left: 103px;
+	right: 0px;
+width: 477px;height: 90px;}
+div.page38_item3{
+	position: absolute;
+	top: 910px;
+	left: 105px;
+	right: 0px;
+width: 369px;height: 36px;}
+div.page39_item1{
+	position: absolute;
+	top: 110px;
+	left: 107px;
+	right: 0px;
+width: 546px;height: 277px;}
+div.page40_item1{
+	position: absolute;
+	top: 431px;
+	left: 105px;
+	right: 0px;
+width: 515px;height: 90px;}
+div.page40_item2{
+	position: absolute;
+	top: 916px;
+	left: 128px;
+	right: 0px;
+width: 322px;height: 41px;}
+div.page41_item1{
+	position: absolute;
+	top: 775px;
+	left: 105px;
+	right: 0px;
+width: 556px;height: 175px;}
+div.page42_item1{
+	position: absolute;
+	top: 112px;
+	left: 105px;
+	right: 0px;
+width: 537px;height: 230px;}
+div.page43_item1{
+	position: absolute;
+	top: 420px;
+	left: 105px;
+	right: 0px;
+width: 479px;height: 43px;}
+div.page43_item2{
+	position: absolute;
+	top: 774px;
+	left: 105px;
+	right: 0px;
+width: 528px;height: 176px;}
+div.page44_item1{
+	position: absolute;
+	top: 111px;
+	left: 105px;
+	right: 0px;
+width: 525px;height: 226px;}
+div.page45_item1{
+	position: absolute;
+	top: 590px;
+	left: 105px;
+	right: 0px;
+width: 531px;height: 270px;}
+div.page46_item1{
+	position: absolute;
+	top: 468px;
+	left: 107px;
+	right: 0px;
+width: 513px;height: 133px;}
+div.page47_item1{
+	position: absolute;
+	top: 112px;
+	left: 105px;
+	right: 0px;
+width: 526px;height: 450px;}
+div.page48_item1{
+	position: absolute;
+	top: 111px;
+	left: 105px;
+	right: 0px;
+width: 541px;height: 503px;}
+div.page50_item1{
+	position: absolute;
+	top: 199px;
+	left: 45px;
+	right: 0px;
+width: 333px;height: 131px;}
+div.page50_item2{
+	position: absolute;
+	top: 396px;
+	left: 43px;
+	right: 0px;
+width: 662px;height: 143px;}
+div.page50_item3{
+	position: absolute;
+	top: 563px;
+	left: 164px;
+	right: 0px;
+width: 518px;height: 310px;}
+div.page50_item4{
+	position: absolute;
+	top: 989px;
+	left: 160px;
+	right: 0px;
+width: 272px;height: 87px;}
+span.italic
+{
+font-family: "CenturyOSMTStd-Italic";
+font-size: 34px;
+}
+p.copy{
+	font-family: "CenturyOsMT";
+	font-size: 16px;
+	line-height: 18px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 18px;
+}
+p.title{
+	font-family: "CenturyOsMT";
+	font-size: 18px;
+	line-height: 27px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p.back{
+	font-family: "TriplexBold";
+	font-size: 39px;
+	line-height: 42px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #E01921;
+}
+
+p.head{
+	font-family: "TriplexBold";
+	font-size: 33px;
+	line-height: 37px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #FFFFFF;
+}
+p.nonindent1{
+	font-family: "TriplexLight";
+	font-size: 22px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+	color: #FFFFFF;
+}
+p.head1{
+	font-family: "TriplexExtraBold";
+	font-size: 25px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 38px;
+	margin-bottom: 0px;
+	color: #FFFFFF;
+}
+p.bullet{
+	font-family: "TriplexLight";
+	font-size: 19px;
+	line-height: 20px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 1px;
+	color: #FFFFFF;
+}
+
+
+p.title1{
+	font-family: "CenturyOsMT";
+	font-size: 19px;
+	line-height: 27px;
+	text-align: center;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+p.indent1{
+	font-family: "CenturyOsMT";
+	font-size: 31px;
+	line-height: 46px;
+	text-align: left;
+	text-indent: 30px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	word-spacing: 2px;
+}
+
+
+p.head2{
+	font-family: "TriplexExtraBold";
+	font-size: 25px;
+	line-height: 26px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: #FFFFFF;
+}
+
+span.font
+{
+font-family: "vagrounb";
+}
+
+p.back1{
+	font-family: "TriplexLight";
+	font-size: 9px;
+	line-height: 12px;
+	text-align: left;
+	text-indent: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+span.space1
+{
+word-spacing: 5px;
+}
+
+.media-overlay-active { color:#f00 !important; }
+
+
+span.arial
+{
+font-family: "Arial";
+}
+
+span.hyp
+{
+letter-spacing:-4px;
+}
