@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!-- -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="15785ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- The -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="15785ms" clipEnd="15925ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- Pirate -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="15925ms" clipEnd="16405ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Games -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="16405ms" clipEnd="17625ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- Adapted -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="17625ms" clipEnd="18205ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- by -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="18205ms" clipEnd="18525ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- Andrea -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="18525ms" clipEnd="19105ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Posner -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="19105ms" clipEnd="19625ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Sanchez -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="19625ms" clipEnd="20795ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id9">
+      <!-- Story -->
+      <text src="../003.xhtml#w9"/>
+      <audio clipBegin="20795ms" clipEnd="21275ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id10">
+      <!-- concept -->
+      <text src="../003.xhtml#w10"/>
+      <audio clipBegin="21275ms" clipEnd="21915ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id11">
+      <!-- by -->
+      <text src="../003.xhtml#w11"/>
+      <audio clipBegin="21915ms" clipEnd="22265ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id12">
+      <!-- Alessandro -->
+      <text src="../003.xhtml#w12"/>
+      <audio clipBegin="22265ms" clipEnd="23095ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id13">
+      <!-- Sisti -->
+      <text src="../003.xhtml#w13"/>
+      <audio clipBegin="23095ms" clipEnd="24225ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id14">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w14"/>
+      <audio clipBegin="24225ms" clipEnd="24945ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id15">
+      <!-- by -->
+      <text src="../003.xhtml#w15"/>
+      <audio clipBegin="24945ms" clipEnd="25215ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id16">
+      <!-- Stefania -->
+      <text src="../003.xhtml#w16"/>
+      <audio clipBegin="25215ms" clipEnd="26025ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id17">
+      <!-- Fiorillo -->
+      <text src="../003.xhtml#w17"/>
+      <audio clipBegin="26025ms" clipEnd="27085ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id18">
+      <!-- Roberta -->
+      <text src="../003.xhtml#w18"/>
+      <audio clipBegin="27085ms" clipEnd="27775ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id19">
+      <!-- Zanotta -->
+      <text src="../003.xhtml#w19"/>
+      <audio clipBegin="27775ms" clipEnd="28775ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id20">
+      <!-- and -->
+      <text src="../003.xhtml#w20"/>
+      <audio clipBegin="28775ms" clipEnd="28965ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id21">
+      <!-- Giuseppe -->
+      <text src="../003.xhtml#w21"/>
+      <audio clipBegin="28965ms" clipEnd="29795ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id22">
+      <!-- Fontana -->
+      <text src="../003.xhtml#w22"/>
+      <audio clipBegin="29795ms" clipEnd="30535ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id22g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="30535ms" clipEnd="31296ms" src="../audio/9781484711286.m4a"/>
+    </par>
+  </body>
+</smil>

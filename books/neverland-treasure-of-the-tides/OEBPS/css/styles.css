@@ -1,0 +1,159 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+/* body, html { background-color: #999; } */
+body, html { background-color: #999; }
+
+@font-face {
+	font-family:"arial-regular";
+	src: url(../fonts/Arial.otf);
+}
+@font-face {
+	font-family:"caslonantique-medium";
+	src: url(../fonts/CasloAnt.otf);
+}
+@font-face {
+	font-family:"century-os-mt-regular";
+	src: url(../fonts/CenturyOSMT.otf);
+}
+@font-face {
+	font-family:"futura-otf-light";
+	src: url(../fonts/Futura-Light.otf);
+}
+@font-face {
+	font-family:"jansontext-bold";
+	src: url(../fonts/JansonText-Bold.otf);
+}
+@font-face {
+	font-family:"Georgia-BoldItalic";
+	src: url(../fonts/Georgia-BoldItalic.otf);
+}
+.font-1 {
+	font-family:"futura-otf-light";
+	font-size:10px;
+	line-height:11px;
+}
+.font-2 {
+	font-family:"arial-regular";
+	font-size:10px;
+	line-height:11px;
+}
+.font-3 {
+	font-family:"caslonantique-medium";
+	font-size:20px;
+	line-height:26px;
+}
+.font-4 {
+	font-family:"caslonantique-medium";
+	font-size:22px;
+	line-height:26px;
+}
+.font-5 {
+	font-family:"jansontext-bold";
+	font-size:18px;
+	line-height:26px;
+}
+.font-5a {
+	font-family:"Georgia-BoldItalic";
+	font-size:17px;
+	line-height:0;
+}
+.font-5b {
+	font-family:"Georgia-BoldItalic";
+	font-size:14px;
+	line-height:0;
+}
+.font-5c {
+	font-family:"Georgia-BoldItalic";
+	font-size:17px;
+	line-height:0;
+}
+.font-6 {
+	font-family:"caslonantique-medium";
+	font-size:53px;
+	line-height:25px;
+}
+.font-7 {
+	font-family:"century-os-mt-regular";
+	font-size:20px;
+	line-height:28px;
+}
+.font-8 {
+	font-family:"century-os-mt-regular";
+	font-size:20px;
+	line-height:28px;
+}
+.font-9 {
+	font-family:"caslonantique-medium";
+	font-size:54px;
+	line-height:29px;
+	font-variant: small-caps;
+}
+.font-10 {
+	font-family:"caslonantique-medium";
+	font-size:32px;
+	line-height:32px;
+}
+.font-11 {
+	font-family:"caslonantique-medium";
+	font-size:54px;
+	line-height:32px;
+	font-variant: small-caps;
+}
+.font-12 {
+	font-family:"caslonantique-medium";
+	font-size:38px;
+	line-height:28px;
+	font-variant: small-caps;
+}
+.font-13 {
+	font-family:"caslonantique-medium";
+	font-size:50px;
+	line-height:32px;
+}
+.font-14 {
+	font-family:"caslonantique-medium";
+	font-size:42px;
+	line-height:28px;
+	font-variant: small-caps;
+}
+.font-15 {
+	font-family:"caslonantique-medium";
+	font-size:55px;
+	line-height:30px;
+}
+.font-16 {
+	font-family:"caslonantique-medium";
+	font-size:18px;
+	line-height:25px;
+}
+.font-17 {
+	font-family:"caslonantique-medium";
+	font-size:50px;
+	line-height:30px;
+	font-variant: small-caps;
+}
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:738px; height:738px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1476px; height:738px; overflow:hidden; position:relative; background-size:100% 100% !important; }
+.pageKF8-single { width:738px; height:738px; position:relative; background-size:100% 100% !important; left:25%; }
+/*span { color:#f6f !important; }*/
+
+.p-spacer { padding-top: 0.5em; }
+tspan.media-overlay-active { fill: #f00 !important; }
+p.copyright-block { line-height: 0 !important; }
+p.copyright-line { padding-top: 0.15em; }
+
+span.font-4 span.orange-words { color: #DA2128; }
+span.font-4 span.orange-words.media-overlay-active { color: #ff6600 !important; }

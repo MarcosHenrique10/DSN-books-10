@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id104g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="67260ms" clipEnd="67825ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id104">
+      <!-- Hook -->
+      <text src="../007.xhtml#w104"/>
+      <audio clipBegin="67825ms" clipEnd="68175ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id105">
+      <!-- orders -->
+      <text src="../007.xhtml#w105"/>
+      <audio clipBegin="68175ms" clipEnd="68605ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id106">
+      <!-- Bones -->
+      <text src="../007.xhtml#w106"/>
+      <audio clipBegin="68605ms" clipEnd="69215ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id107">
+      <!-- to -->
+      <text src="../007.xhtml#w107"/>
+      <audio clipBegin="69215ms" clipEnd="69355ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id108">
+      <!-- do -->
+      <text src="../007.xhtml#w108"/>
+      <audio clipBegin="69355ms" clipEnd="69535ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id109">
+      <!-- the -->
+      <text src="../007.xhtml#w109"/>
+      <audio clipBegin="69535ms" clipEnd="69685ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id110">
+      <!-- climbing -->
+      <text src="../007.xhtml#w110"/>
+      <audio clipBegin="69685ms" clipEnd="70205ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id111">
+      <!-- for -->
+      <text src="../007.xhtml#w111"/>
+      <audio clipBegin="70205ms" clipEnd="70385ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id112">
+      <!-- his -->
+      <text src="../007.xhtml#w112"/>
+      <audio clipBegin="70385ms" clipEnd="70675ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id113">
+      <!-- team -->
+      <text src="../007.xhtml#w113"/>
+      <audio clipBegin="70675ms" clipEnd="71515ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id114">
+      <!-- But -->
+      <text src="../007.xhtml#w114"/>
+      <audio clipBegin="71515ms" clipEnd="71675ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id115">
+      <!-- Bones -->
+      <text src="../007.xhtml#w115"/>
+      <audio clipBegin="71675ms" clipEnd="72325ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id116">
+      <!-- is -->
+      <text src="../007.xhtml#w116"/>
+      <audio clipBegin="72325ms" clipEnd="72455ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id117">
+      <!-- afraid -->
+      <text src="../007.xhtml#w117"/>
+      <audio clipBegin="72455ms" clipEnd="73015ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id120">
+      <!-- of -->
+      <text src="../007.xhtml#w120"/>
+      <audio clipBegin="73015ms" clipEnd="73135ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id121">
+      <!-- heights -->
+      <text src="../007.xhtml#w121"/>
+      <audio clipBegin="73135ms" clipEnd="73715ms" src="../audio/9781484711286.m4a"/>
+    </par>
+    <par id="id121g">
+      <!--  -->
+      <text src="../007.xhtml#empty"/>
+      <audio clipBegin="73715ms" clipEnd="74623ms" src="../audio/9781484711286.m4a"/>
+    </par>
+  </body>
+</smil>

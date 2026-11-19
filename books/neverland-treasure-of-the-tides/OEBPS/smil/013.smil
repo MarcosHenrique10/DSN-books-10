@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id366g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="182886ms" clipEnd="183436ms" src="../audio/9781423196037.m4a"/>
+    </par>
+    <par id="id366">
+      <!-- Great -->
+      <text src="../013.xhtml#w366"/>
+      <audio clipBegin="183436ms" clipEnd="183786ms" src="../audio/9781423196037.m4a"/>
+    </par>
+    <par id="id367">
+      <!-- idea -->
+      <text src="../013.xhtml#w367"/>
+      <audio clipBegin="183786ms" clipEnd="184716ms" src="../audio/9781423196037.m4a"/>
+    </par>
+    <par id="id368">
+      <!-- says -->
+      <text src="../013.xhtml#w368"/>
+      <audio clipBegin="184716ms" clipEnd="185036ms" src="../audio/9781423196037.m4a"/>
+    </par>
+    <par id="id369">
+      <!-- Marina -->
+      <text src="../013.xhtml#w369"/>
+      <audio clipBegin="185036ms" clipEnd="186026ms" src="../audio/9781423196037.m4a"/>
+    </par>
+    <par id="id370">
+      <!-- Lucille's -->
+      <text src="../013.xhtml#w370"/>
+      <audio clipBegin="186026ms" clipEnd="186676ms" src="../audio/9781423196037.m4a"/>
+    </par>
+    <par id="id371">
+      <!-- going -->
+      <text src="../013.xhtml#w371"/>
+      <audio clipBegin="186676ms" clipEnd="186956ms" src="../audio/9781423196037.m4a"/>
+    </par>
+    <par id="id372">
+      <!-- to -->
+      <text src="../013.xhtml#w372"/>
+      <audio clipBegin="186956ms" clipEnd="187086ms" src="../audio/9781423196037.m4a"/>
+    </par>
+    <par id="id373">
+      <!-- help -->
+      <text src="../013.xhtml#w373"/>
+      <audio clipBegin="187086ms" clipEnd="187546ms" src="../audio/9781423196037.m4a"/>
+    </par>
+    <par id="id373g">
+      <!--  -->
+      <text src="../013.xhtml#empty"/>
+      <audio clipBegin="187546ms" clipEnd="188367ms" src="../audio/9781423196037.m4a"/>
+    </par>
+  </body>
+</smil>

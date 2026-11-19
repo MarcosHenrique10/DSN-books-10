@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id42g">
+      <!-- Jake and the Never Land Pirates: Surfin' Turf -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="34759ms" clipEnd="38449ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id42">
+      <!-- Written -->
+      <text src="../005.xhtml#w42"/>
+      <audio clipBegin="39179ms" clipEnd="39539ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id43">
+      <!-- by -->
+      <text src="../005.xhtml#w43"/>
+      <audio clipBegin="39539ms" clipEnd="39719ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id44">
+      <!-- Melinda -->
+      <text src="../005.xhtml#w44"/>
+      <audio clipBegin="39719ms" clipEnd="40189ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id45">
+      <!-- La -->
+      <text src="../005.xhtml#w45"/>
+      <audio clipBegin="40189ms" clipEnd="40319ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id46">
+      <!-- Rose -->
+      <text src="../005.xhtml#w46"/>
+      <audio clipBegin="40319ms" clipEnd="41289ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id47">
+      <!-- Based -->
+      <text src="../005.xhtml#w47"/>
+      <audio clipBegin="41289ms" clipEnd="41649ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id48">
+      <!-- on -->
+      <text src="../005.xhtml#w48"/>
+      <audio clipBegin="41649ms" clipEnd="41789ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id49">
+      <!-- the -->
+      <text src="../005.xhtml#w49"/>
+      <audio clipBegin="41789ms" clipEnd="41929ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id50">
+      <!-- episode -->
+      <text src="../005.xhtml#w50"/>
+      <audio clipBegin="41929ms" clipEnd="42719ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id51">
+      <!-- written -->
+      <text src="../005.xhtml#w51"/>
+      <audio clipBegin="42719ms" clipEnd="43069ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id52">
+      <!-- by -->
+      <text src="../005.xhtml#w52"/>
+      <audio clipBegin="43069ms" clipEnd="43239ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id53">
+      <!-- Nicole -->
+      <text src="../005.xhtml#w53"/>
+      <audio clipBegin="43239ms" clipEnd="43659ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id54">
+      <!-- Dubuc -->
+      <text src="../005.xhtml#w54"/>
+      <audio clipBegin="43659ms" clipEnd="44809ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id55">
+      <!-- Illustrated -->
+      <text src="../005.xhtml#w55"/>
+      <audio clipBegin="44809ms" clipEnd="45489ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id56">
+      <!-- by -->
+      <text src="../005.xhtml#w56"/>
+      <audio clipBegin="45489ms" clipEnd="45709ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id57">
+      <!-- Character -->
+      <text src="../005.xhtml#w57"/>
+      <audio clipBegin="45709ms" clipEnd="46269ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id58">
+      <!-- Building -->
+      <text src="../005.xhtml#w58"/>
+      <audio clipBegin="46269ms" clipEnd="46639ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id59">
+      <!-- Studio -->
+      <text src="../005.xhtml#w59"/>
+      <audio clipBegin="46639ms" clipEnd="47369ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id60">
+      <!-- and -->
+      <text src="../005.xhtml#w60"/>
+      <audio clipBegin="47369ms" clipEnd="47489ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id61">
+      <!-- the -->
+      <text src="../005.xhtml#w61"/>
+      <audio clipBegin="47489ms" clipEnd="47599ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id62">
+      <!-- Disney -->
+      <text src="../005.xhtml#w62"/>
+      <audio clipBegin="47599ms" clipEnd="48129ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id63">
+      <!-- Storybook -->
+      <text src="../005.xhtml#w63"/>
+      <audio clipBegin="48129ms" clipEnd="48939ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id64">
+      <!-- Art -->
+      <text src="../005.xhtml#w64"/>
+      <audio clipBegin="48939ms" clipEnd="49249ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id65">
+      <!-- Team -->
+      <text src="../005.xhtml#w65"/>
+      <audio clipBegin="49249ms" clipEnd="49569ms" src="../audio/9781423190004.m4a"/>
+    </par>
+    <par id="id65g">
+      <!--  -->
+      <text src="../005.xhtml#empty"/>
+      <audio clipBegin="49569ms" clipEnd="50504ms" src="../audio/9781423190004.m4a"/>
+    </par>
+  </body>
+</smil>

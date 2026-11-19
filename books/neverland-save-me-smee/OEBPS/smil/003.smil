@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <par id="id1a">
+      <!---->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="200ms" clipEnd="18093ms" src="../audio/9781423195696.m4a"/>
+    </par>
+    <par id="id1">
+      <!-- Written -->
+      <text src="../003.xhtml#w1"/>
+      <audio clipBegin="18093ms" clipEnd="18569ms" src="../audio/9781423195696.m4a"/>
+    </par>
+    <par id="id2">
+      <!-- by -->
+      <text src="../003.xhtml#w2"/>
+      <audio clipBegin="18569ms" clipEnd="18649ms" src="../audio/9781423195696.m4a"/>
+    </par>
+    <par id="id3">
+      <!-- Melinda -->
+      <text src="../003.xhtml#w3"/>
+      <audio clipBegin="18649ms" clipEnd="19099ms" src="../audio/9781423195696.m4a"/>
+    </par>
+    <par id="id4">
+      <!-- LaRose -->
+      <text src="../003.xhtml#w4"/>
+      <audio clipBegin="19099ms" clipEnd="20399ms" src="../audio/9781423195696.m4a"/>
+    </par>
+    <par id="id5">
+      <!-- Illustrated -->
+      <text src="../003.xhtml#w5"/>
+      <audio clipBegin="20399ms" clipEnd="21309ms" src="../audio/9781423195696.m4a"/>
+    </par>
+    <par id="id6">
+      <!-- by -->
+      <text src="../003.xhtml#w6"/>
+      <audio clipBegin="21309ms" clipEnd="21589ms" src="../audio/9781423195696.m4a"/>
+    </par>
+    <par id="id7">
+      <!-- Alan -->
+      <text src="../003.xhtml#w7"/>
+      <audio clipBegin="21589ms" clipEnd="21939ms" src="../audio/9781423195696.m4a"/>
+    </par>
+    <par id="id8">
+      <!-- Batson -->
+      <text src="../003.xhtml#w8"/>
+      <audio clipBegin="21939ms" clipEnd="22479ms" src="../audio/9781423195696.m4a"/>
+    </par>
+    <par id="id8g">
+      <!--  -->
+      <text src="../003.xhtml#empty"/>
+      <audio clipBegin="22479ms" clipEnd="23490ms" src="../audio/9781423195696.m4a"/>
+    </par>
+  </body>
+</smil>

@@ -1,0 +1,192 @@
+/* CSS Reset */
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:text-top;}sub{vertical-align:text-bottom;}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;}input,textarea,select{font-size:100%;}legend{color:#000;}
+
+@font-face {
+	font-family:"century-os-mt-regular";
+	src: url(../fonts/centuryOSMT.otf);
+}
+@font-face {
+	font-family:"triplex-bold";
+	src: url(../fonts/triplexBold.otf);
+}
+@font-face {
+	font-family:"triplex-light";
+	src: url(../fonts/triplexLight.otf);
+}
+@font-face {
+	font-family:"vag-rounded-bold";
+	src: url(../fonts/VAGRoundedBold.otf);
+}
+@font-face {
+	font-family:"century-regular";
+	src: url(../fonts/century.otf);
+}
+@font-face {
+	font-family:"futuraLight";
+	src: url(../fonts/futuraLight.otf);
+}
+@font-face {
+	font-family:"caslon-antique";
+	src: url(../fonts/casloAnt.otf);
+}
+
+.font-1 {
+	font-family:"century-os-mt-regular";
+	font-size:26px;
+	line-height:34px;
+}
+.font-1a {
+	font-family:"caslon-antique";
+	font-size:57px;
+	line-height:34px;
+}
+.font-2 {
+	font-family:"futuraLight";
+	font-size:13px;
+	line-height: 16px;
+	display: block;
+}
+.font-3 {
+	font-family:"caslon-antique";
+	font-size:32px;
+	line-height:38px;
+}
+.font-3 span.alt-color.media-overlay-active {color: #ff6699 !important;}
+.font-4 {
+	font-family:"century-os-mt-regular";
+	font-size:32px;
+	line-height:58px;
+}
+.font-5 {
+	font-family:"century-os-mt-regular";
+	font-size:33px;
+	line-height:60px;
+}
+.font-6 {
+	font-family:"century-os-mt-regular";
+	font-size:29px;
+	line-height:59px;
+}
+
+
+.font-8 {
+	font-family:"triplex-bold";
+	font-size:38px;
+	line-height:40px;
+}
+.font-9 {
+	font-family:"vag-rounded-bold";
+	font-size:32px;
+	line-height:33px;
+}
+/* 
+.font-10 {
+	font-family:"vag-rounded-bold";
+	font-size:24px;
+}
+.font-11 {
+	font-family:"triplex-extrabold";
+	font-size:20px;
+	line-height:17px;
+}
+.font-12 {
+	font-family:"vag-rounded-bold";
+	font-size:20px;
+	line-height:21px;
+}
+.font-13 {
+	font-family:"arial-regular";
+	font-size:20px;
+	line-height:21px;
+}
+.font-14 {
+	font-family:"times-regular";
+	font-size:16px;
+	line-height:17px;
+}
+.font-15 {
+	font-family:"triplex-light";
+	font-size:19px;
+	line-height:17px;
+}
+.font-16 {
+	font-family:"triplex-light";
+	font-size:16px;
+	line-height:17px;
+}
+ */
+.font-17 { /**/
+	font-family:"triplex-bold";
+	font-size:34px;
+	line-height: 47px;
+	display: block;
+}
+.font-18 { /**/
+	font-family:"triplex-light";
+	font-size:22px;
+	line-height:25px;
+	display: block;
+}
+.font-19 { /**/
+	font-family:"triplex-bold";
+	font-size:25px;
+	line-height:30px;
+}
+.font-20 {  /**/
+	font-family:"triplex-light";
+	font-size:19px;
+	line-height:17px;
+}
+.font-21 { /**/
+	font-family:"vag-rounded-bold";
+	font-size:25px;
+	line-height:12px;
+}
+.font-22 {
+	font-family:"triplex-light";
+	font-size:10px;
+	line-height:12px;
+	display: block;
+}
+
+.text-frame { position:absolute; }
+.text-frame p { margin:0; text-indent:1.7em; }
+.center { text-align:center; }
+.right { text-align:right; }
+.left { text-align:left; }
+.justify { text-align:justify; }
+.no-indent { text-indent:0 !important; }
+.no-indent p { text-indent:0 !important; }
+.smallcaps { font-variant:small-caps; }
+.allcaps { text-transform:uppercase; }
+.text-frame { border:0px solid red; } /* For troubleshooting only */
+.media-overlay-active { color:#f00 !important; } /* For audio books */
+.page, .page img { width:710px; height:1065px; overflow:hidden; position:absolute; }
+.pageKF8 { width:1419px; height:1065px; overflow:hidden; position:relative; background-size:contain; }
+.pageKF8-single { width:710px; height:1065px; position:relative; background-size:contain; left:25%; }
+
+.custom-pos {display: block; position: absolute;}
+
+/*TESTING EPUB/EPIB*/
+/* 
+.rbone,
+.page {
+	border: 1px solid red;
+}
+.pageKF8 {
+	background-color: red !important;
+}
+.gbone,
+.text-frame {
+	border: 1px solid #bada55;
+}
+.bbone {
+	border: 1px solid blue;
+}
+.pbone {
+	border: 1px solid fuchsia;
+}
+body {
+	color: fuchsia; blue;
+}
+ */
